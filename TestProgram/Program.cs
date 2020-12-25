@@ -8,6 +8,9 @@ namespace TestProgram
         {
             Console.WriteLine(2 + 4);
             Console.WriteLine(2 * 4);
+            Console.WriteLine(2 / 4);
+            Console.WriteLine(2 ^ 4);
+            Console.WriteLine(7 - 2);
         }
     }
 }
