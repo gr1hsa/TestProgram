@@ -8,6 +8,7 @@ namespace TestProgram
         {
             Console.WriteLine(2 + 4);
             int a = 8, b = 10;
+            ()()()()()()()()()()
             Console.WriteLine(a * b);
             
         }
